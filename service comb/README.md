@@ -1,0 +1,4 @@
+- [Apache ServiceComb](https://servicecomb.apache.org/)
+- [ServiceComb](https://github.com/apache?q=ServiceComb)
+- [Service Mesh 在华为公有云的实践](https://gitbook.cn/books/5a1e7dca387c5b4ee351790b/index.html)
+- [Apache ServiceComb 服务网格与微服务开发框架融合实践](https://mp.weixin.qq.com/s/vRHm4aRLO5-W7REbacrvhQ)
