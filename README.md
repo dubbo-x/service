@@ -2,7 +2,7 @@
 
 ## basic
 
-- [service mesh](./service mesh)
+- [service mesh](./service%20mesh)
 
 ## framework
 
