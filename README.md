@@ -17,4 +17,5 @@
 - [envoy](./envoy)
 - [istio](./istio)
 - [sofa](./sofa)
+- [kuma](./kuma)
 - [service comb](./service%20comb)
