@@ -1,1 +1,1 @@
-- [envoy](https://www.envoyproxy.io/)
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy)

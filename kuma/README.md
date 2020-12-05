@@ -1,1 +1,1 @@
-- [kuma](https://github.com/Kong)
+- [kumahq/kuma](https://github.com/kumahq/kuma)

@@ -1,2 +1,1 @@
-- [istio](https://istio.io/)
-- [nginxinc/nginmesh](https://github.com/nginxinc/nginmesh)
+- [istio/istio](https://github.com/istio/istio)
