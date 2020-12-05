@@ -11,6 +11,7 @@
 - [go-kit](./go-kit)
 - [rpcx](./rpcx)
 - [dubbo](./dubbo)
+- [dubbo-go](./dubbo-go)
 - [sofa-rpc](./sofa-rpc)
 - [sofa-mesh](./sofa-mesh)
 - [micro](./micro)
@@ -23,3 +24,4 @@
 - [mson](./mson)
 - [istio](./istio)
 - [kuma](./kuma)
+- [dapr](./dapr)
