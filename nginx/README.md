@@ -1,1 +1,1 @@
-- [nginxinc/nginmesh](https://github.com/nginxinc/nginmesh)
+- [nginx/nginx](https://github.com/nginx/nginx)
