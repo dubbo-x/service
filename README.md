@@ -25,4 +25,5 @@
 - [istio](./istio)
 - [nginxmesh](./nginxmesh)
 - [kuma](./kuma)
+- [knative](./knative)
 - [dapr](./dapr)
