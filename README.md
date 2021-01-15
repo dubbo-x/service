@@ -26,4 +26,5 @@
 - [nginxmesh](./nginxmesh)
 - [kuma](./kuma)
 - [knative](./knative)
+- [oam](./oam)
 - [dapr](./dapr)
