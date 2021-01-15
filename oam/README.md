@@ -1,0 +1,5 @@
+- [oam-dev](https://github.com/oam-dev)
+- [Announcing the Open Application Model (OAM), an open standard for developing and operating applications on Kubernetes and other platforms](https://cloudblogs.microsoft.com/opensource/2019/10/16/announcing-open-application-model/)
+- [What is Open Application Model (OAM) and Why Should I Care?](https://medium.com/@then.arifin/what-is-open-application-model-oem-and-why-should-i-care-6b5cabc974fa)
+- [The Open Application Model from Alibaba's Perspective](https://www.alibabacloud.com/blog/the-open-application-model-from-alibabas-perspective_595692)
+- [Open application model: carving building blocks for platforms](https://www.cncf.io/blog/2020/07/24/open-application-model-carving-building-blocks-for-platforms/)
