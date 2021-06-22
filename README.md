@@ -21,6 +21,7 @@
 - [conduit](./conduit)
 - [envoy](./envoy)
 - [mson](./mson)
+- [layotto](./layotto)
 - [nginx](./nginx)
 - [istio](./istio)
 - [nginxmesh](./nginxmesh)
